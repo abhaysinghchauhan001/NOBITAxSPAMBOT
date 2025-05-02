@@ -12,7 +12,7 @@ PythonButton = [
         Button.url("⚡️𝗦𝗨𝗣𝗣𝗢𝗥𝗧⚡️", "https://t.me/OG_DEFAULTERS")
         ],
         [
-        Button.("⚡️𝗥𝗘𝗣𝗢⚡️", "𝗡𝗢𝗕𝗜𝗧𝗔 𝗣𝗔𝗣𝗔 𝗕𝗢𝗟 𝗥𝗘𝗣𝗢 𝗟𝗘𝗚𝗔 𝗟𝗔𝗨𝗗𝗘")
+        Button.("⚡️𝗥𝗘𝗣𝗢⚡️", "https://t.me/NOBITA_MUSIC_SUPPORT")
         ]
         ]
 
