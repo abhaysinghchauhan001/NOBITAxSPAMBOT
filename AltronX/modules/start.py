@@ -9,10 +9,10 @@ PythonButton = [
         ],
         [
         Button.url("⚡️𝗨𝗣𝗗𝗔𝗧𝗘⚡️", "https://t.me/NOBITA_MUSIC_SUPPORT"),
-        Button.url("⚡️𝗦𝗨𝗣𝗣𝗢𝗥𝗧⚡️", "https://t.me/OG_DEFAULTERS_001")
+        Button.url("⚡️𝗦𝗨𝗣𝗣𝗢𝗥𝗧⚡️", "https://t.me/OG_DEFAULTERS")
         ],
         [
-        Button.url("⚡️𝗥𝗘𝗣𝗢⚡️", "𝗡𝗢𝗕𝗜𝗧𝗔 𝗣𝗔𝗣𝗔 𝗕𝗢𝗟 𝗥𝗘𝗣𝗢 𝗟𝗘𝗚𝗔 𝗟𝗔𝗨𝗗𝗘")
+        Button.("⚡️𝗥𝗘𝗣𝗢⚡️", "𝗡𝗢𝗕𝗜𝗧𝗔 𝗣𝗔𝗣𝗔 𝗕𝗢𝗟 𝗥𝗘𝗣𝗢 𝗟𝗘𝗚𝗔 𝗟𝗔𝗨𝗗𝗘")
         ]
         ]
 
